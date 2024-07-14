@@ -33,7 +33,7 @@ Matpotlib
 tkinter
 openpyxl
 sqlite3
-
-After you isntalled all of the above run juypter lab like mentioned in the documentation and upload the .ipynb to your working directory 
+5. Get the first dataset as mentioned in the project report and rename it to emprs.csv for the notebook to work correctly
+After you installed all of the above run juypter lab like mentioned in the documentation and upload the .ipynb to your working directory 
 and also create the data folder and upload the dataset there.
 
